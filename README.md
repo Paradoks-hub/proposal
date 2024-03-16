@@ -1,8 +1,10 @@
 # PROPOSAL 
 
-> _selamat datang 愚かな人間_
+> _selamat datang **愚かな人間**_
 
-**bukan tentang `kebahagiaan`**
+
+
+**ini bukan tentang `kebahagiaan`**
 
 
 **tapi `awal` dari sebuah `kehidupan`**
